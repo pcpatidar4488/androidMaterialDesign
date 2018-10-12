@@ -24,7 +24,10 @@ import com.mediatechindo.wahyu.materialuikit.template.LoginSignupCategory.LoginS
 import com.mediatechindo.wahyu.materialuikit.template.MenuCategory.MenuCategoryFragment;
 import com.mediatechindo.wahyu.materialuikit.template.MusicCategory.MusicCategoryFragment;
 import com.mediatechindo.wahyu.materialuikit.template.NewsCategory.NewsCategoryFragment;
-import com.mediatechindo.wahyu.materialuikit.template.ProfileCategory.ProfileCategoryFragment;
+import 
+
+
+com.mediatechindo.wahyu.materialuikit.template.ProfileCategory.ProfileCategoryFragment;
 import com.mediatechindo.wahyu.materialuikit.template.WalktroughCategory.WalkthroughCategoryFragment;
 
 import java.util.ArrayList;
